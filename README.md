@@ -1,3 +1,11 @@
+Content Wide for Dokuwiki
+
+I have made small modification to the original plugin.
+
+The following is the original README
+
+---
+
 widearea Plugin for DokuWiki
 
 Uses the WideArea JavaScript and CSS library inside the DokuWiki editor.
@@ -11,6 +19,7 @@ Please refer to http://www.dokuwiki.org/plugins for additional info
 on how to install plugins in DokuWiki.
 
 ----
+
 Copyright (C) Matthias Schulte <dokuwiki@lupo49.de>
 
 This program is free software; you can redistribute it and/or modify
